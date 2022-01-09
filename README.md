@@ -1,16 +1,17 @@
-### Hi there 👋
+# <h1 align="center" id="heading">Hi 👋, I'm Leonardo Zago</h1>
 
-<!--
-**lczago/lczago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programing languages & Tools
+[<img src="https://img.icons8.com/color/48/000000/python.png"/>](https://www.python.org/)
+[<img src="https://img.icons8.com/color/48/000000/django.png"/>](https://www.djangoproject.com/)
+[<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>](https://www.postgresql.org/)
 
-Here are some ideas to get you started:
+### Currently studying:
+[<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>](https://kotlinlang.org/)
+[<img src="https://img.icons8.com/color/48/000000/docker.png"/>](https://www.docker.com/)[<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>](https://www.javascript.com/)[<img src="https://img.icons8.com/color/48/000000/redis.png"/>](https://redis.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>](https://vuejs.org/)[<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>](https://nodejs.org/en/)
+
+
+### Social Media:
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/leonardo-zago-51697a176/)
+ 	   		
