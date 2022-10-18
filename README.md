@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, I'm Leo! <img src="https://github.com/lczago/lczago/blob/main/assets/Hi.gif" width="40" height="40"/> 
+I'm a Full Stack developer from Brazil.
+## 👨🏻‍💻 About
+* :computer: I like to explore all kinds of technology to develop solutions to our worlds tech problems.
+* :people_holding_hands: Teamwork and helping others is something that i really enjoy being part at.
+* :man_student: I'm currently studying to become a computer systems analyst.
 
-<!--
-**lczago/lczago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programing languages & Tools
+[<img src="https://img.icons8.com/color/48/000000/golang.png"/>](https://go.dev/)
+[<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>](https://kotlinlang.org/)
+[<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>](https://spring.io/)
+[<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>](https://www.postgresql.org/)
+[<img src="https://img.icons8.com/color/48/000000/docker.png"/>](https://www.docker.com/)
 
-Here are some ideas to get you started:
+[<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>](https://angular.io/)
+[<img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>](https://kubernetes.io/)
+[<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>](https://www.javascript.com/)
+[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>](https://www.java.com/en/)
+[<img src="https://img.icons8.com/color/48/000000/redis.png"/>](https://redis.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently studying:
+
+[<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>](https://www.mongodb.com/)
+
+[<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>](https://www.rust-lang.org/)
+
+### Social Media:
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="60" height="60" />](https://www.linkedin.com/in/leonardo-zago-51697a176/)
