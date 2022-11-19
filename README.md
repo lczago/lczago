@@ -1,5 +1,5 @@
 # Hi, I'm Leo! <img src="https://github.com/lczago/lczago/blob/main/assets/Hi.gif" width="40" height="40"/> 
-I'm a Full Stack developer from Brazil.
+I'm a Back-end developer from Brazil.
 ## 👨🏻‍💻 About
 * :computer: I like to explore all kinds of technology to develop solutions to our worlds tech problems.
 * :people_holding_hands: Teamwork and helping others is something that i really enjoy being part at.
