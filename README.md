@@ -15,7 +15,6 @@ I'm a Back-end developer from Brazil.
 [<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>](https://angular.io/)
 [<img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>](https://kubernetes.io/)
 [<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>](https://www.javascript.com/)
-[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>](https://www.java.com/en/)
 [<img src="https://img.icons8.com/color/48/000000/redis.png"/>](https://redis.io/)
 
 ### Currently studying:
