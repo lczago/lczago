@@ -10,17 +10,15 @@ I'm a Back-end developer from Brazil.
 [<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>](https://kotlinlang.org/)
 [<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>](https://spring.io/)
 [<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>](https://www.postgresql.org/)
-[<img src="https://img.icons8.com/color/48/000000/docker.png"/>](https://www.docker.com/)
+[<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>](https://www.mongodb.com/)
 
-[<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>](https://angular.io/)
+[<img src="https://img.icons8.com/color/48/000000/docker.png"/>](https://www.docker.com/)
 [<img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>](https://kubernetes.io/)
 [<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>](https://www.javascript.com/)
 [<img src="https://img.icons8.com/color/48/000000/redis.png"/>](https://redis.io/)
+[<img src="https://img.icons8.com/color/48/000000/dart.png"/>](https://dart.dev/)
 
 ### Currently studying:
-
-[<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>](https://www.mongodb.com/)
-
 [<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>](https://www.rust-lang.org/)
 
 ### Social Media:
