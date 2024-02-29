@@ -16,6 +16,9 @@ I'm a Back-end developer from Brazil.
 [<img src="https://img.icons8.com/color/48/000000/redis.png"/>](https://redis.io/)
 [<img src="https://img.icons8.com/color/48/000000/dart.png"/>](https://dart.dev/)
 ### Currently studying:
+[<img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>](https://elixir-lang.org/)
+[<img src="https://img.shields.io/badge/Phoenix%20Framework-FD4F00?logo=phoenixframework&logoColor=fff&style=for-the-badge"/>](https://www.phoenixframework.org/)
+
 [<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>](https://www.rust-lang.org/)
 ### Social Media:
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="60" height="60" />](https://www.linkedin.com/in/leonardo-zago-51697a176/)
