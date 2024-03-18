@@ -1,20 +1,22 @@
 # Hi, I'm Leo! <img src="https://github.com/lczago/lczago/blob/main/assets/Hi.gif" width="40" height="40"/> 
-I'm a Back-end developer from Brazil.
+I'm a Full Stack developer from Brazil.
 ## 👨🏻‍💻 About
 * :computer: I like to explore all kinds of technology to develop solutions to our worlds tech problems.
 * :people_holding_hands: Teamwork and helping others is something that i really enjoy being part at.
 ### Programing languages & Tools
 [<img src="https://img.icons8.com/color/48/000000/golang.png"/>](https://go.dev/)
-[<img src="https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white"/>](https://pt.quarkus.io/)
 [<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>](https://spring.io/)
 [<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="55" height="55" />]()
-
+[<img src="https://img.icons8.com/color/48/000000/typescript.png"/>](https://www.typescriptlang.org/)
+[<img src="https://img.icons8.com/color/48/000000/nextjs.png"/>](https://nextjs.org/)
+[<img src="https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white"/>](https://pt.quarkus.io/)
 
 [<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>](https://www.postgresql.org/)
 [<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>](https://www.mongodb.com/)
 [<img src="https://img.icons8.com/color/48/000000/docker.png"/>](https://www.docker.com/)
 [<img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>](https://kubernetes.io/)
 [<img src="https://img.icons8.com/color/48/000000/redis.png"/>](https://redis.io/)
+[<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>](https://tailwindcss.com/)
 ### Currently studying:
 [<img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>](https://elixir-lang.org/)
 [<img src="https://img.shields.io/badge/Phoenix%20Framework-FD4F00?logo=phoenixframework&logoColor=fff&style=for-the-badge"/>](https://www.phoenixframework.org/)
