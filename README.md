@@ -1,26 +1,53 @@
-# Hi, I'm Leo! <img src="https://github.com/lczago/lczago/blob/main/assets/Hi.gif" width="40" height="40"/> 
-I'm a Full Stack developer from Brazil.
-## 👨🏻‍💻 About
-* :computer: I like to explore all kinds of technology to develop solutions to our worlds tech problems.
-* :people_holding_hands: Teamwork and helping others is something that i really enjoy being part at.
-### Programing languages & Tools
-[<img src="https://img.icons8.com/color/48/000000/golang.png"/>](https://go.dev/)
-[<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>](https://spring.io/)
-[<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="55" height="55" />]()
-[<img src="https://img.icons8.com/color/48/000000/typescript.png"/>](https://www.typescriptlang.org/)
-[<img src="https://img.icons8.com/color/48/000000/nextjs.png"/>](https://nextjs.org/)
-[<img src="https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white"/>](https://pt.quarkus.io/)
+<div align="center">
+  <h1>
+    <img src="https://github.com/lczago/lczago/blob/main/assets/Hi.gif" width="40" height="40"/>
+    Hi, I'm Leo!
+  </h1>
+</div>
 
-[<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>](https://www.postgresql.org/)
-[<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>](https://www.mongodb.com/)
-[<img src="https://img.icons8.com/color/48/000000/docker.png"/>](https://www.docker.com/)
-[<img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>](https://kubernetes.io/)
-[<img src="https://img.icons8.com/color/48/000000/redis.png"/>](https://redis.io/)
-[<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>](https://tailwindcss.com/)
-### Currently studying:
-[<img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>](https://elixir-lang.org/)
-[<img src="https://img.shields.io/badge/Phoenix%20Framework-FD4F00?logo=phoenixframework&logoColor=fff&style=for-the-badge"/>](https://www.phoenixframework.org/)
+## 👨🏻‍💻 About Me
 
-[<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>](https://www.rust-lang.org/)
-### Social Media:
-[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="60" height="60" />](https://www.linkedin.com/in/leonardo-zago-51697a176/)
+I am a Senior Full Stack Developer from Brazil, passionate about exploring complex technologies to solve real-world problems.
+
+* 🔭 I’m currently working on building scalable applications using **Rust** and **Go**.
+* 🐧 I'm a Linux enthusiast (Pop!_OS - Cosmic) and advocate for open-source environments.
+* 🤝 Teamwork and helping others is something that i really enjoy being part at.
+
+## 🛠️ Tech Stack
+
+### **Core Languages**
+<p>
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+</p>
+
+### **Frameworks & Ecosystems**
+<p>
+  <a href="https://actix.rs/"><img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
+  <a href="https://gofiber.io/"><img src="https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /></a>
+  <a href="https://quarkus.io/"><img src="https://img.shields.io/badge/Quarkus-4794EB?style=for-the-badge&logo=quarkus&logoColor=white" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+</p>
+
+### **Infrastructure & Data**
+<p>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="https://surrealdb.com/"><img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+  <br/>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
+  <a href="https://www.kurrent.io/"><img src="https://img.shields.io/badge/Kurrent%20DB-5D297A?style=for-the-badge&logo=eventstore&logoColor=white" /></a>
+</p>
+
+### **Social Media**
+<p>
+  <a href="https://www.linkedin.com/in/leonardo-zago-51697a176/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
